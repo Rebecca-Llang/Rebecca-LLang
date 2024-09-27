@@ -10,7 +10,7 @@ _  ___                         _
 ## My name is Rebecca Lang 👋 she/her
 ✨ Don't be misled by the extra 'L' in my GitHub handle! ✨
 
-### About Me
+## About Me
 I am a software developer and graduate of Dev Academy, based in Aotearoa. I have a passion for accessibility, collaboration and the power of technology to improve our collective quality of life. 
 
 ## Projects & Skills
@@ -25,7 +25,9 @@ I am a software developer and graduate of Dev Academy, based in Aotearoa. I have
 
 - 🤔 I'm looking for help with internships, grad and entry-level software development roles.
 
-- 📫 Check out my [LinkedIn](https://www.linkedin.com/in/rebecca-lang-nz).
+## Tell me more!
+
+- 📫 Check out my [LinkedIn](https://www.linkedin.com/in/rebecca-lang-nz) to connect!
 
 - 🌱 Outside of programming, I love to paint, floristry, boardgames, karaoke and walking in the bush. 
 
