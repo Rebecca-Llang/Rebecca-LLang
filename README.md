@@ -1,9 +1,11 @@
- _  ___                         _ 
+```
+_  ___                         _ 
 | |/ (_)                       | |
 | ' / _  __ _    ___  _ __ __ _| |
 |  < | |/ _` |  / _ \| '__/ _` | |
 | . \| | (_| | | (_) | | | (_| |_|
 |_|\_\_|\__,_|  \___/|_|  \__,_(_)
+```
 
 ## My name is Rebecca Lang 👋 she/her
 ✨ Don't be misled by the extra 'L' in my GitHub handle! ✨
@@ -15,7 +17,7 @@ I am a software developer and graduate of Dev Academy, based in Aotearoa. I have
 
 - 🖥 I'm currently working on building my portfolio and a karaoke app.
 
-- 💚 DonateMate: This app was built over 7 days for our final group project at Dev Academy. As product owner and contributor, I led the design, planning and execution. DonateMate allows donors to find the organisations that are most in need of their donation type, and allowed organisations to create profiles to manage and communicate their donation needs. I focused on implementing Auth0, the organisation profiles, filtering organisations by donation type, and improving UI accessibility and experience. Check it out [here][https://donatemate.pushed.nz].
+- 💚 DonateMate: This app was built over 7 days for our final group project at Dev Academy. As product owner and contributor, I led the design, planning and execution. DonateMate allows donors to find the organisations that are most in need of their donation type, and allowed organisations to create profiles to manage and communicate their donation needs. I focused on implementing Auth0, the organisation profiles, filtering organisations by donation type, and improving UI accessibility and experience. Check it out [here](https://donatemate.pushed.nz).
 
 - 🌱 I'm building my skills in JavaScript, TypeScript, React.js, Node.js, RESTful APIs, Vitest, Superagent, Express, Knex.js & SQLite3.
 
@@ -23,7 +25,7 @@ I am a software developer and graduate of Dev Academy, based in Aotearoa. I have
 
 - 🤔 I'm looking for help with internships, grad and entry-level software development roles.
 
-- 📫 Check out my [LinkedIn][https://www.linkedin.com/in/rebecca-lang-nz].
+- 📫 Check out my [LinkedIn](https://www.linkedin.com/in/rebecca-lang-nz).
 
 - 🌱 Outside of programming, I love to paint, floristry, boardgames, karaoke and walking in the bush. 
 
