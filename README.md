@@ -17,7 +17,7 @@ I am a software developer and graduate of Dev Academy, based in Aotearoa. I have
 
 - 🖥 I'm currently working on building my portfolio, my [karaoke playlist app](https://github.com/Rebecca-Llang/my-karaoke-playlist), and the budding OK! Karaoke app which explores further features. 
 
-- 💚 DonateMate: This app was built over 7 days for our final group project at Dev Academy. As product owner and contributor, I led the design, planning and execution. DonateMate allows donors to find the organisations that are most in need of their donation type, and allowed organisations to create profiles to manage and communicate their donation needs. I focused on implementing Auth0, the organisation profiles, filtering organisations by donation type, and improving UI accessibility and experience. Check it out live [here](https://donatemate.pushed.nz) or the repo [here](https://github.com/Rebecca-Llang/donate-mate)!
+- 💚 DonateMate: This app was built over 7 days for our final group project at Dev Academy. As product owner and contributor, I led the design, planning and execution. DonateMate allows donors to find the organisations that are most in need of their donation type, and allowed organisations to create profiles to manage and communicate their donation needs. I focused on implementing Auth0, the organisation profiles, filtering organisations by donation type, and improving UI accessibility and experience. Check it out [live](https://donatemate.pushed.nz) or the repo [here](https://github.com/Rebecca-Llang/donate-mate)!
 
 - 🌱 I'm building my skills in JavaScript, TypeScript, React.js, Node.js, RESTful APIs, Vitest, Superagent, Express, Knex.js & SQLite3.
 
