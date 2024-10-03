@@ -10,10 +10,10 @@ _  ___                         _
 ## My name is Rebecca Lang 👋 she/her
 ✨ Don't be misled by the extra 'L' in my GitHub handle! ✨
 
-## About Me 🌻
+## About Me 
 I am a software developer and graduate of Dev Academy, based in Aotearoa. I have a passion for accessibility, collaboration and the power of technology to improve our collective quality of life. 
 
-## Projects & Skills 🚀
+## Projects & Skills 
 
 - 🖥 I'm currently working on building my portfolio, my [karaoke playlist app](https://github.com/Rebecca-Llang/my-karaoke-playlist), and the budding [OK! Karaoke app](https://github.com/Rebecca-Llang/ok-karaoke) which explores further features. 
 
@@ -25,7 +25,7 @@ I am a software developer and graduate of Dev Academy, based in Aotearoa. I have
 
 - 🤔 I'm looking for help with internships, grad and entry-level software development roles.
 
-## Tell me more! ✨
+## Tell me more! 
 
 - 📫 Check out my [LinkedIn](https://www.linkedin.com/in/rebecca-lang-nz) to connect!
 
