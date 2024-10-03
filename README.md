@@ -10,12 +10,12 @@ _  ___                         _
 ## My name is Rebecca Lang 👋 she/her
 ✨ Don't be misled by the extra 'L' in my GitHub handle! ✨
 
-## About Me
+## About Me 🌻
 I am a software developer and graduate of Dev Academy, based in Aotearoa. I have a passion for accessibility, collaboration and the power of technology to improve our collective quality of life. 
 
-## Projects & Skills
+## Projects & Skills 🚀
 
-- 🖥 I'm currently working on building my portfolio, my [karaoke playlist app](https://github.com/Rebecca-Llang/my-karaoke-playlist), and the budding OK! Karaoke app which explores further features. 
+- 🖥 I'm currently working on building my portfolio, my [karaoke playlist app](https://github.com/Rebecca-Llang/my-karaoke-playlist), and the budding [OK! Karaoke app](https://github.com/Rebecca-Llang/ok-karaoke) which explores further features. 
 
 - 💚 [DonateMate](https://donatemate.pushed.nz): This app was built over 7 days for our final group project at Dev Academy. As product owner and contributor, I led the design, planning and execution. DonateMate allows donors to find the organisations that are most in need of their donation type, and allowed organisations to create profiles to manage and communicate their donation needs. I focused on implementing Auth0, the organisation profiles, filtering organisations by donation type, and improving UI accessibility and experience. Check out the repo [here](https://github.com/Rebecca-Llang/donate-mate)!
 
@@ -25,7 +25,7 @@ I am a software developer and graduate of Dev Academy, based in Aotearoa. I have
 
 - 🤔 I'm looking for help with internships, grad and entry-level software development roles.
 
-## Tell me more!
+## Tell me more! ✨
 
 - 📫 Check out my [LinkedIn](https://www.linkedin.com/in/rebecca-lang-nz) to connect!
 
