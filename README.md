@@ -1,14 +1,8 @@
-   _  __  _                                     _ 
-  | |/ / (_)   __ _       ___    _ __    __ _  | |
-  | ' /  | |  / _` |     / _ \  | '__|  / _` | | |
-  | . \  | | | (_| |    | (_) | | |    | (_| | |_|
-  |_|\_\ |_|  \__,_|     \___/  |_|     \__,_| (_)
-
-I’m Rebecca Lang (don't be fooled by the extra 'L' in my github handle! I am a full stack software developer (she/they, Aotearoa) blending code, creativity, and empathy to build experiences that matter.
+Kia ora! I’m Rebecca Lang (don't be fooled by the extra 'L' in my github handle!). I am a full stack software developer/engineer (she/they, Aotearoa) blending code, creativity, and empathy to build experiences that matter.
 
 ---
 
-**about me:**  
+**About Me:**  
 - Recent Dev Academy grad with a background in team leadership, fundraising, customer care & floristry  
 - Passionate about accessibility, collaborative problem-solving, and tech with social impact  
 - Thrive in teams where culture, learning, and well-being are as valued as clean code  
@@ -16,7 +10,7 @@ I’m Rebecca Lang (don't be fooled by the extra 'L' in my github handle! I am a
 
 ---
 
-**featured projects:**  
+**Projects:**  
 - [r-lang-portfolio](https://github.com/Rebecca-Llang/r-lang-portfolio): my evolving developer portfolio—showcasing projects, skills, and a little bit of heart  
 - [nora-ai](https://github.com/Rebecca-Llang/nora-ai): conversational ai companion, designed for *real* support and connection  
 - [my-karaoke-playlist](https://github.com/Rebecca-Llang/my-karaoke-playlist): a joyful web app for music lovers and party planners  
@@ -25,7 +19,7 @@ I’m Rebecca Lang (don't be fooled by the extra 'L' in my github handle! I am a
 
 ---
 
-**let’s connect:**  
+**Let’s Connect:**  
 - Open to new opportunities, collaborations, and creative projects.
 - Looking for internships, grad and entry-level software development roles.
 
